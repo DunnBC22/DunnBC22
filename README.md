@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Brian Dunn. My interests are with Natural Language Processesing & Big Data. I am also working to improve my understandng of computer vision.
+- My interests are with Natural Language Processesing & Big Data. I am well versed with Python the scipy stack (mainly NumPy, Pandas, & Matplotlib) as well as Scikit-Learn/Sklearn, Tensorflow, and PyTorch.
+
+- 🌱 I’m currently learning computer vision and Cython.
+
+- ⚡ Fun fact: I learned programming using Java and have taken time to learn Scala too.
+- ⚡ Fun fact (2.0): Growing up, I wanted to become a pilot.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dunnbc22?cardType=github&theme=ayu-mirage&preferLogin=true&Ring=342ADD&Title=27DD3E)](https://git.io/awesome-stats-card)
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnbc22&hide_progress=true)](https://github.com/dunnbc22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnbc22&hide_progress=true)](https://github.com/dunnbc22/github-readme-stats)
