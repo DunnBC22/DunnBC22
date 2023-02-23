@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well Hello There!!! 👋
 
 <!--
 **DunnBC22/DunnBC22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Brian Dunn. My interests are with Natural Language Processesing & Big Data. I am also working to improve my understandng of computer vision.
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dunnbc22?cardType=github&theme=ayu-mirage&preferLogin=true&Ring=342ADD&Title=27DD3E)](https://git.io/awesome-stats-card)
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunnbc22&hide_progress=true)](https://github.com/dunnbc22/github-readme-stats)
