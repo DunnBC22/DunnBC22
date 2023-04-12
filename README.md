@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My interests are with Natural Language Processesing & Big Data. I am well versed with Python the scipy stack (mainly NumPy, Pandas, & Matplotlib) as well as Scikit-Learn/Sklearn, Tensorflow, and PyTorch.
+- My main interests are Natural Language Processesing & Big Data. I am well versed with Python (including NumPy, Pandas, Matplotlib, Scikit-Learn/Sklearn Tensorflow, PyTorch) as well as PySpark & Databricks.
 
-- 🌱 I’m currently learning computer vision as well as ways to make processes more efficient.
+- 🌱 I’m currently learning Time Series Analysis & Reinforcement Learning.
 
 - ⚡ Fun fact: I learned programming using Java and have taken time to learn Scala too.
 - ⚡ Fun fact (2.0): Growing up, I wanted to become a pilot.
