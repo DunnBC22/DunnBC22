@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My main interests are Natural Language Processesing & Big Data. I am well versed with Python (including NumPy, Pandas, Matplotlib, Scikit-Learn/Sklearn Tensorflow, PyTorch) as well as PySpark & Databricks.
+- My main interests are Natural Language Processesing & Big Data. I am well versed with Python (including NumPy, Pandas, Matplotlib, Scikit-Learn/Sklearn, Tensorflow, & PyTorch) as well as PySpark & Databricks.
 
 - 🌱 I’m currently learning Time Series Analysis & Reinforcement Learning.
 
