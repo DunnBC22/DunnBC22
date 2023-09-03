@@ -9,7 +9,7 @@
 
 - My main interest is Natural Language Processesing. I am well versed with Python, including NumPy, Pandas, Matplotlib, Scikit-Learn/Sklearn, PyTorch & HuggingFace.
 
-- 🌱 I’m currently learning Reinforcement Learning & Prompt Tuning with Large Language Modeling (with LangChain).
+- 🌱 I’m currently learning LangChain, Reinforcement Learning & Prompt Tuning with Large Language Modeling.
 
 - 🤔 I’m looking for help with finding suitable employment. If you know anyone seeking a NLP Engineer in the USA, feel free to direct them to my [Linkedin profile](https://www.linkedin.com/in/dunnbc22/)
 
