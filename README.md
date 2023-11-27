@@ -7,11 +7,11 @@
 - 💬 Ask me about ...
 -->
 
-- My main interest is Natural Language Processesing. I am well versed with Python, including NumPy, Pandas, Matplotlib, Scikit-Learn/Sklearn, PyTorch & HuggingFace.
+- My focus right now is learning topics within the data engineering domain. I am in the midst of learning Apache Airflow and intend on learning Apache Kafka next!
 
-- 🌱 I’m currently learning LangChain, Reinforcement Learning & Prompt Tuning with Large Language Modeling.
+- I am well versed with Python, including NumPy, Pandas, Matplotlib, Scikit-Learn/Sklearn, PyTorch & HuggingFace.
 
-- 🤔 I’m looking for help with finding suitable employment. If you know anyone seeking a NLP Engineer in the USA, feel free to direct them to my [Linkedin profile](https://www.linkedin.com/in/dunnbc22/)
+- 🤔 I’m looking for help with finding suitable employment. If you know anyone seeking a Data Engineer in the USA, feel free to direct them to my [Linkedin profile](https://www.linkedin.com/in/dunnbc22/)
 
 - 📫 How to reach me: [Reach out to me on LinkedIn](https://www.linkedin.com/in/dunnbc22/)
 
